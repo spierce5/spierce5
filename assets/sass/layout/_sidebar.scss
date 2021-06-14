@@ -26,7 +26,7 @@
 		@include breakpoint('<=large') {
 			border-top: solid 1px _palette(border);
 			margin: _size(section-spacing) 0 0 0;
-			min-width: 0;
+			min-width: 320px;
 			padding: _size(section-spacing) 0 0 0;
 			width: 100%;
 			overflow-x: hidden;
